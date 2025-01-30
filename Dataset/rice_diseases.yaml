@@ -1,0 +1,5 @@
+path: ../Dataset
+train: images/train
+val: images/val
+nc: 3  # Number of classes
+names: ['rice_blast', 'brown_spot', 'bacterial_leaf_blight']
